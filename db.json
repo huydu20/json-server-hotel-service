@@ -946,9 +946,13 @@
       "price": 657
     }
   ],
-  "user": [
+  "users": [
     {
-      
+      "id": 1,
+      "username": "huydu20",
+      "password": "huydu20",
+      "firstName": "Huy",
+      "lastName": "Du"
     }
   ]
 }
